@@ -1,0 +1,17 @@
+Steps that had done:-
+
+First Step Setup all the environment
+
+1.git repo setup and syncing with vscode
+2.creating setup.py and requirements.txt file
+3.add gitignore file at the github only and pull it in your local machine.
+
+4.add all these files into your repo through git commands
+    git add .
+    git status
+    git commit -m msg
+    git push origin -u main 
+
+SECOND STEP Developing project Structure
+
+1.create a components folder -this are nothing but modules
