@@ -15,3 +15,13 @@ First Step Setup all the environment
 SECOND STEP Developing project Structure
 
 1.create a components folder -this are nothing but modules
+2.create pipeline folder
+3.exception.py,logger.py files also
+4. create custom exception method for you project this will be helpful for your entire project
+5.create log file code 
+  and add custom exception handling method using and giving proper output
+
+
+  THIRD STEP
+  1.EDA
+  2..MODEL TRAINING AND CHOOSING BEST MODELS
